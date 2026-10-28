@@ -1,0 +1,4 @@
+This is sample digital evidence for testing.
+Case ID: CASE001
+Evidence Type: Suspicious Email
+Testing evidence integrity verification.

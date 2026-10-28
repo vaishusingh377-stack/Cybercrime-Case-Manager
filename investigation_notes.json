@@ -1,0 +1,11 @@
+[
+    {
+        "case_id": "CASE001",
+        "note": "Suspicious email identified for further investigation."
+    },
+    {
+        "case_id": "CASE001",
+        "note": "Reviewed suspicious email headers.",
+        "timestamp": "2026-10-28 17:42:52"
+    }
+]
